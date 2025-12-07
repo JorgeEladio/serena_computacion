@@ -1,39 +1,55 @@
 # serena_computacion
-Repositorio oficial de la computación de la Teoría Serena. Incluye simulaciones numéricas, validaciones asintóticas, análisis topológicos y herramientas para el estudio computacional del modelo.
-serena_validacion_asintotica_esmeralda.py
-Implementación de la validación asintótica para una configuración tipo Esmeralda, incluyendo:
 
-Ansatz compacto
+Repositorio oficial de la computación de la Teoría Serena.  
+Incluye simulaciones numéricas, validaciones asintóticas, análisis topológicos y  
+herramientas para el estudio computacional del modelo.
 
-Relajación difusiva
+El script principal actualmente incluido es:
 
-Derivadas de cuarto orden
+`serena_validacion_asintotica_esmeralda.py`
 
-Ajustes lineales y análisis de tail
+Implementación de la validación asintótica para una configuración tipo *Esmeralda*, incluyendo:
 
-Gráficas automáticas de energía y campos efectivos
+- Ansatz compacto  
+- Relajación difusiva  
+- Derivadas de cuarto orden  
+- Ajustes lineales y análisis de colas (*tails*)  
+- Gráficas automáticas de energía y campos efectivos  
 
-1. Teoría Serena: fundamentos del modelo físico
-📄 DOI: https://doi.org/10.5281/zenodo.17832113
+---
 
-3. Fundamentos conceptuales y motivación de los axiomas de la teoría Serena
-📄 DOI: https://doi.org/10.5281/zenodo.17839509
+##  Publicaciones relacionadas
 
-3. Validación asintótica de configuraciones tipo Hopf en la Teoría Serena
-📄 Publicado en OSF: https://doi.org/10.17605/OSF.IO/W3MNV
+1. **Teoría Serena: fundamentos de un modelo físico**  
+   DOI: https://doi.org/10.5281/zenodo.17832113  
 
-Cómo citar este repositorio
-Pérez Argibay, Jorge Eladio (2025). serena_computacion: 
-Repositorio oficial de simulaciones numéricas y validaciones de la Teoría Serena.
-https://github.com/JorgeEladio/serena_computacion
+2. **Fundamentos conceptuales y motivación de los axiomas de la teoría Serena**  
+   DOI: https://doi.org/10.5281/zenodo.17839509  
 
+3. **Validación asintótica de configuraciones tipo Hopf en la Teoría Serena**  
+   Publicado en OSF: https://doi.org/10.17605/OSF.IO/W3MNV  
 
-Licencia
-Este proyecto está licenciado bajo MIT License, lo que permite uso libre con atribución adecuada.
+---
 
-Objetivo del repositorio
-Unificar en un único espacio:
-La parte computacional de la Teoría Serena
-Las herramientas numéricas
-La validación de los resultados teóricos
-Los enlaces oficiales a las publicaciones científicas
+##  Cómo citar este repositorio
+
+Pérez Argibay, Jorge Eladio (2025).  
+**serena_computacion**: Repositorio oficial de simulaciones numéricas y validaciones de la Teoría Serena.  
+Disponible en: https://github.com/JorgeEladio/serena_computacion
+
+---
+
+##  Licencia
+
+Este proyecto está licenciado bajo la **MIT License**, lo que permite su libre uso con atribución adecuada.
+
+---
+
+## Objetivo del repositorio
+
+Unificar en un solo espacio:
+
+- La parte computacional de la Teoría Serena  
+- Las herramientas numéricas  
+- Las validaciones de los resultados teóricos  
+- Los enlaces oficiales a las publicaciones científicas  
