@@ -29,6 +29,16 @@ Implementación de la validación asintótica para una configuración tipo *Esme
 3. **Validación asintótica de configuraciones tipo Hopf en la Teoría Serena**  
    Publicado en OSF: https://doi.org/10.17605/OSF.IO/W3MNV  
 
+4. **Configuración Hopf Estable en un Modelo de Campo con Valores en S3: Validación Topológica, Energética y Asintótica**  
+   DOI: https://doi.org/10.5281/zenodo.17903022  
+
+5. **Estructura Topológica y Estabilidad Dinámica del Nudo de Hopf en el Modelo Serena**  
+   DOI: https://doi.org/10.5281/zenodo.17929332  
+
+6. **Certificación Topológica Numérica de una Configuración de Hopf con Carga Unitaria**  
+   DOI: https://doi.org/10.5281/zenodo.17929571  
+
+
 ---
 
 ##  Cómo citar este repositorio
