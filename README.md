@@ -38,8 +38,8 @@ Implementación de la validación asintótica para una configuración tipo *Esme
 6. **Certificación Topológica Numérica de una Configuración de Hopf con Carga Unitaria**
    DOI: https://doi.org/10.5281/zenodo.17929571  
 
-7. **Estructura geométrica y variacional de los campos serenos**
-   https://doi.org/10.5281/zenodo.17993323
+8. **Estructura geométrica y variacional de los campos serenos**
+   DOI: https://doi.org/10.5281/zenodo.17993323
 
 
 ---
