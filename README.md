@@ -35,8 +35,11 @@ Implementación de la validación asintótica para una configuración tipo *Esme
 5. **Estructura Topológica y Estabilidad Dinámica del Nudo de Hopf en el Modelo Serena**  
    DOI: https://doi.org/10.5281/zenodo.17929332  
 
-6. **Certificación Topológica Numérica de una Configuración de Hopf con Carga Unitaria**  
+6. **Certificación Topológica Numérica de una Configuración de Hopf con Carga Unitaria**
    DOI: https://doi.org/10.5281/zenodo.17929571  
+
+7. **Estructura geométrica y variacional de los campos serenos**
+   https://doi.org/10.5281/zenodo.17993323
 
 
 ---
