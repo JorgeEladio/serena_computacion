@@ -42,7 +42,8 @@ Implementación de la validación asintótica para una configuración tipo *Esme
 7. **Estructura geométrica y variacional de los campos serenos**
    DOI: https://doi.org/10.5281/zenodo.17993323
    
-8. **La Teoría Serena como Marco Fundacional Pre-Dinámico**/n
+8. **La Teoría Serena como Marco Fundacional Pre-Dinámico**
+   
     DOI: https://doi.org/10.5281/zenodo.18059332
 
 9. **Ecuación Dinámica Candidata para el Marco Serena**
