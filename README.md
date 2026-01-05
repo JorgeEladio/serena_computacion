@@ -1,4 +1,8 @@
 # serena_computacion
+Official project website:
+https://teoriaserena.com/
+
+The Serena website provides the canonical description of the framework, its conceptual structure, and the up-to-date organization of documents. This Zenodo record serves as a citable, time-stamped reference.
 
 Repositorio oficial de la computación de la Teoría Serena.  
 Incluye simulaciones numéricas, validaciones asintóticas, análisis topológicos y  
